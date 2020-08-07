@@ -1,5 +1,11 @@
-### Hi there 👋
+### 🇪🇸 Hola a todos 👋
+- 🔭 Estoy trabajando en mejorar día a día.
+- 🌱 Actualmente estoy aprendiendo C# y ReactJS.
 
+
+### 🇬🇧 Hello there 👋
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning C# and ReactJS
 <!--
 **DrunkPsyduck/DrunkPsyduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
