@@ -1,6 +1,9 @@
 ### 🇪🇸 Hola a todos 👋
 - 🔭 Estoy trabajando en mejorar día a día.
 - 🌱 Actualmente estoy aprendiendo C# y ReactJS.
+- ⚡ Sobre mí: Técnico Superior en Desarrollo de Aplicaciones Web.
+      
+     
 
 
 ### 🇬🇧 Hello there 👋
