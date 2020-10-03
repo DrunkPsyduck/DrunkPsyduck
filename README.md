@@ -2,12 +2,15 @@
 - 🔭 Aprendiendo Frameworks de Javascript, C# y Desarrollo de la nube (Azure y AWS) 
 - 📫 Puedes encontrarme en GitLab con el mismo nombre
       
-     
+No dudes en mandarme un feedback de esta página     
 
 
 ### 🇬🇧 Hello there 👋
 - 🔭 Learning Javascript Frameworks, C # and Cloud Development (Azure and AWS)
-- 📫 You can find me in GitLab with the same name
+- 📫 You can find me in GitLab with the same name.
+
+
+Do not hesitate to send me a feedback on this page
 <!--
 **DrunkPsyduck/DrunkPsyduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
