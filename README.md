@@ -1,13 +1,13 @@
 ### 🇪🇸 Hola a todos 👋
-- 🔭 Estoy trabajando en mejorar día a día.
-- 🌱 Actualmente estoy aprendiendo C# y ReactJS.
+- 🔭 Aprendiendo Frameworks de Javascript, C# y Desarrollo de la nube (Azure y AWS) 
+- 📫 Puedes encontrarme en GitLab con el mismo nombre
       
      
 
 
 ### 🇬🇧 Hello there 👋
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning C# and ReactJS
+- 🔭 Learning Javascript Frameworks, C # and Cloud Development (Azure and AWS)
+- 📫 You can find me in GitLab with the same name
 <!--
 **DrunkPsyduck/DrunkPsyduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
