@@ -1,13 +1,13 @@
 ### 🇪🇸 Hola a todos 👋
 - 🔭 Aprendiendo Frameworks de Javascript, C# y Desarrollo de la nube (Azure y AWS) 
-- 📫 Puedes encontrarme en GitLab con el mismo nombre
+- 📫 Envíame un mensaje si tienes alguna ídea o sugerencia.
       
 No dudes en mandarme un feedback de esta página     
 
 
 ### 🇬🇧 Hello there 👋
 - 🔭 Learning Javascript Frameworks, C # and Cloud Development (Azure and AWS)
-- 📫 You can find me in GitLab with the same name.
+- 📫 Send me a message if you have an idea or a suggestion.
 
 
 Do not hesitate to send me a feedback on this page
