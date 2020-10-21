@@ -1,5 +1,5 @@
 ### 🇪🇸 Hola a todos 👋
-- 🔭 Aprendiendo Frameworks de Javascript, C# y Desarrollo de la nube (Azure y AWS) 
+- 🔭 Aprendiendo Frameworks de Javascript, C# y Desarrollo en la nube (Azure y AWS) 
 - 📫 Envíame un mensaje si tienes alguna ídea o sugerencia.
       
 No dudes en mandarme un feedback de esta página     
