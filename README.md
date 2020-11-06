@@ -5,7 +5,7 @@
 No dudes en mandarme un feedback de esta página     
 
 
-### 🇬🇧 Hello there 👋
+### En Hello there 👋
 - 🔭 Learning Javascript Frameworks, C # and Cloud Development (Azure and AWS)
 - 📫 Send me a message if you have an idea or a suggestion.
 
