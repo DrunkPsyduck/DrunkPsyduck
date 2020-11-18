@@ -18,7 +18,7 @@
 
 ### 🇪🇸 Hola a todos 👋
 - 🔭 Aprendiendo Frameworks de Javascript, C# y Desarrollo en la nube (Azure y AWS) 
-- 📫 Envíame un mensaje si tienes alguna ídea o sugerencia.
+- 📫 Envíame un mensaje si tienes alguna idea o sugerencia.
       
 No dudes en mandarme un feedback de esta página     
 
