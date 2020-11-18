@@ -1,6 +1,6 @@
-[![DrunkPsyduck's github stats](https://github-readme-stats.vercel.app/api?username=drunkpsyduck&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![DrunkPsyduck's github stats](https://github-readme-stats.vercel.app/api?username=drunkpsyduck&theme=midnight-purple)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunkpsyduck&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunkpsyduck&layout=compact&theme=radical)]
 
 [![DrunkPsydduck's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrunkPsyduck)](https://github.com/anuraghazra/github-readme-stats)
 
