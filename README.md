@@ -4,8 +4,7 @@
 
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-React-informational?style=flat&logoColor=white&color=green)
-![](https://img.shields.io/badge/Language-Angular-informational?style=flat&logoColor=white&color=green)
-![](https://img.shields.io/badge/Language-C#-informational?style=flat&logoColor=white&color=green)
+
 
 
 
