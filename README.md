@@ -1,3 +1,4 @@
+[![DrunkPsyduck's github stats](https://github-readme-stats.vercel.app/api?username=drunkpsyduck)](https://github.com/anuraghazra/github-readme-stats)
 ### 🇪🇸 Hola a todos 👋
 - 🔭 Aprendiendo Frameworks de Javascript, C# y Desarrollo en la nube (Azure y AWS) 
 - 📫 Envíame un mensaje si tienes alguna ídea o sugerencia.
