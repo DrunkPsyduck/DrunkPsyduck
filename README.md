@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunkpsyduck&layout=compact&theme=radical)
 
-[![DrunkPsydduck's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DrunkPsyduck)](https://github.com/anuraghazra/github-readme-stats)
+[![DrunkPsydduck's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrunkPsyduck)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/Hireable-Yes-brightgreen)
 <!-- Badge hireable no 
