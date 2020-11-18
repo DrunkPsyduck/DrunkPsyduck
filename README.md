@@ -1,5 +1,7 @@
 [![DrunkPsyduck's github stats](https://github-readme-stats.vercel.app/api?username=drunkpsyduck)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drunkpsyduck&repo=ZeiterFree)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://img.shields.io/badge/OS-Windows 10-informational?style=flat&logo=https://simpleicons.org/icons/windows.svg&logoColor=white&color=blue)
+
 ### 🇪🇸 Hola a todos 👋
 - 🔭 Aprendiendo Frameworks de Javascript, C# y Desarrollo en la nube (Azure y AWS) 
 - 📫 Envíame un mensaje si tienes alguna ídea o sugerencia.
@@ -16,6 +18,9 @@ Do not hesitate to send me a feedback on this page
 <!--
 **DrunkPsyduck/DrunkPsyduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+Repositorios populares/Popular repos
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drunkpsyduck&repo=ZeiterFree)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
