@@ -3,7 +3,9 @@
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Language-React-informational?style=flat&logoColor=white&color=green)
+
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logoColor=white&color=green)
+![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logoColor=white&color=orange)
 
 
 
