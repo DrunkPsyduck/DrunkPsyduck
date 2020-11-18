@@ -1,9 +1,7 @@
 [![DrunkPsyduck's github stats](https://github-readme-stats.vercel.app/api?username=drunkpsyduck)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logoColor=white&color=orange)
 
