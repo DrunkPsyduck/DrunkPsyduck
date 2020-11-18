@@ -1,6 +1,7 @@
 [![DrunkPsyduck's github stats](https://github-readme-stats.vercel.app/api?username=drunkpsyduck)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://img.shields.io/badge/OS-Windows 10-informational?style=flat&logo=https://simpleicons.org/icons/windows.svg&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Windows 10-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 ### 🇪🇸 Hola a todos 👋
 - 🔭 Aprendiendo Frameworks de Javascript, C# y Desarrollo en la nube (Azure y AWS) 
