@@ -15,14 +15,14 @@
 
 
 ### 🇪🇸 Hola a todos 👋
-- 🔭 Aprendiendo Frameworks de Javascript, C# y Desarrollo en la nube (Azure y AWS) 
+- 🔭 Aprendiendo Frameworks de Javascript, .NETCore y Desarrollo en la nube (Azure y AWS) 
 - 📫 Envíame un mensaje si tienes alguna idea o sugerencia.
       
 No dudes en mandarme un feedback de esta página     
 
 
 ### En Hello there 👋
-- 🔭 Learning Javascript Frameworks, C # and Cloud Development (Azure and AWS)
+- 🔭 Learning Javascript Frameworks, .NETCore and Cloud Development (Azure and AWS)
 - 📫 Send me a message if you have an idea or a suggestion.
 
 
