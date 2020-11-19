@@ -1,4 +1,4 @@
-![DrunkPsyduck's github stats](https://github-readme-stats.vercel.app/api?username=drunkpsyduck&theme=midnight-purple)
+![DrunkPsyduck's github stats](https://github-readme-stats.vercel.app/api?username=drunkpsyduck&theme=midnight-purple&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunkpsyduck&layout=compact&theme=radical)
 
