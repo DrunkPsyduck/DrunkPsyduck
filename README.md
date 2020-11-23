@@ -15,14 +15,16 @@
 
 
 ### 🇪🇸 Hola a todos 👋
-- 🔭 Aprendiendo Frameworks de Javascript, .NETCore y Desarrollo en la nube (Azure y AWS) 
+- 🔭 Aprendiendo nuevos conocimientos.
 - 📫 Envíame un mensaje si tienes alguna idea o sugerencia.
+- 🌱 Conocimentos del Front End en jQuery, React y Angular
       
 No dudes en mandarme un feedback de esta página     
 
 
 ### En Hello there 👋
-- 🔭 Learning Javascript Frameworks, .NETCore and Cloud Development (Azure and AWS)
+- 🔭 Learning new skills
+- 🌱 Knowledge in Front End frameworks jQuery, React and Angular
 - 📫 Send me a message if you have an idea or a suggestion.
 
 
