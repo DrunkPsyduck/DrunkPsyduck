@@ -1,6 +1,6 @@
 ![DrunkPsyduck's github stats](https://github-readme-stats.vercel.app/api?username=drunkpsyduck&theme=midnight-purple&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunkpsyduck&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunkpsyduck&langs_count=7&layout=compact&theme=radical)
 
 ![](https://img.shields.io/badge/Hireable-No-red)
 <!-- Badge hireable yes 
