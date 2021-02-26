@@ -18,6 +18,7 @@
 - 🔭 Aprendiendo nuevos conocimientos.
 - 📫 Envíame un mensaje si tienes alguna idea o sugerencia.
 - :hotsprings: Conocimentos del Front End en jQuery, React y Angular
+- NodeJS y NetCore en el BackEnd
       
 No dudes en mandarme un feedback de esta página     
 
@@ -25,6 +26,7 @@ No dudes en mandarme un feedback de esta página
 ### En Hello there 👋
 - 🔭 Learning new skills
 - :hotsprings: Knowledge in Front End frameworks jQuery, React and Angular
+- - NodeJS & NetCore in the BackEnd
 - 📫 Send me a message if you have an idea or a suggestion.
 
 
