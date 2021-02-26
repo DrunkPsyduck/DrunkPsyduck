@@ -5,15 +5,14 @@
 ![](https://img.shields.io/badge/Hireable-No-red)
 <!-- Badge hireable yes 
 ![](https://img.shields.io/badge/Hireable-yes-lightgreen)
--->
-![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logoColor=white&color=blue)
+
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-.NETCORE-informational?style=flat&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logoColor=white&color=orange)
 
-
-
+-->
+![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logoColor=white&color=blue)
 
 ### 🇪🇸 Hola a todos 👋
 - 🔭 Aprendiendo nuevos conocimientos.
