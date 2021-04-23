@@ -13,12 +13,11 @@
 
 -->
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logoColor=white&color=blue)
-
+Not your typical dev!
 ### 🇪🇸 Hola a todos 👋
-- 🔭 Aprendiendo nuevos conocimientos.
+- 🔭 Aprendiendo nuevas cosas.
 - 📫 Envíame un mensaje si tienes alguna idea o sugerencia.
-- :hotsprings: Conocimentos del Front End en jQuery, React y Angular
-- NodeJS y NetCore en el BackEnd
+
       
 No dudes en mandarme un feedback de esta página     
 
@@ -26,8 +25,6 @@ No dudes en mandarme un feedback de esta página
 ### En Hello there 👋
 - 🔭 Learning new skills
 - :hotsprings: Knowledge in Front End frameworks jQuery, React and Angular
-- - NodeJS & NetCore in the BackEnd
-- 📫 Send me a message if you have an idea or a suggestion.
 
 
 Do not hesitate to send me a feedback on this page
