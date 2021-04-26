@@ -15,6 +15,7 @@
 -->
 
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logoColor=white&color=green)
 
 
 ### 🇪🇸 Hola a todos 👋
