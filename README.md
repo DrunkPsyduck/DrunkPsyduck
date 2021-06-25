@@ -2,8 +2,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drunkpsyduck&langs_count=6&layout=compact&theme=tokyonight)
 
-![](https://img.shields.io/badge/Hireable-Yes-lightgreen)
+![](https://img.shields.io/badge/Hireable-No-red)
 <!-- Badge hireable yes 
+[](https://img.shields.io/badge/Hireable-Yes-lightgreen)
 ![](https://img.shields.io/badge/Hireable-No-red)
 
 
