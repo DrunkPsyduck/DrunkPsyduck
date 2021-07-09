@@ -15,6 +15,9 @@
 
 -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrunkPsyduck)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux%20KDE%20NEON-informational?style=flat&logoColor=white&color=indigo)
 
