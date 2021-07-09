@@ -15,7 +15,8 @@
 
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrunkPsyduck)](https://github.com/anuraghazra/github-readme-stats)
+[![DrunkPsyduck's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrunkPsyduck&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logoColor=white&color=blue)
